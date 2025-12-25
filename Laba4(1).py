@@ -1,9 +1,3 @@
-# import math
-#
-# number = 25
-# result = math.sqrt(number)
-# print("Квадратный корень из", number, "равен", result)
-
 
 # 1)
 from math import sqrt
@@ -21,6 +15,7 @@ from datetime import datetime
 time_right_now = datetime.now()
 
 print("Текущие дата и время: ", time_right_now)
+
 
 
 
